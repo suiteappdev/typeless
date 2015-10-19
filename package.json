@@ -1,0 +1,49 @@
+{
+  "name": "typeLess",
+  "description": "typeLess app generator for [mvc|api|mvc-api] services",
+  "version": "0.0.1",
+  "author": "Andrew Alexander castro vital <listerine1989@gmail.com>",
+  "contributors": [
+    "Andrew Alexander castro vital <listerine1989@gmail.com>"
+  ],
+  "keywords": [
+    "mvc",
+    "restfull",
+    "express",
+    "restify",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "repository": "suiteappdev/typeless",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "2.7.1",
+    "mkdirp": "0.5.1",
+    "sorted-object": "1.0.0"
+  },
+  "main": "bin/typeless",
+  "preferGlobal": true,
+  "bin": {
+    "typeless": "./bin/typeless"
+  },
+  "devDependencies": {
+    "mocha": "2.2.5",
+    "rimraf": "~2.2.8",
+    "supertest": "1.0.1"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "files": [
+    "LICENSE",
+    "bin/",
+    "templates/"
+  ],
+  "scripts": {
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "mocha --reporter spec --check-leaks test/"
+  }
+}
