@@ -1,6 +1,6 @@
-[![Typeless Logo](http://s27.postimg.org/pa7o1fekj/logo.jpg)](http://typeless.com/)
+[![Typeless Logo](http://s29.postimg.org/4574c1sgn/logo.jpg)](http://typeless.com/)
 
-[Typeless'](https://www.npmjs.com/package/express) backend generator.
+[Typeless'](https://www.npmjs.com/package/typeless) backend generator.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
