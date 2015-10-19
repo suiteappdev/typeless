@@ -1,6 +1,6 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[![Typeless Logo](http://s27.postimg.org/pa7o1fekj/logo.jpg)](http://typeless.com/)
 
-[Express'](https://www.npmjs.com/package/express) application generator.
+[Typeless'](https://www.npmjs.com/package/express) backend generator.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
